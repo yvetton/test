@@ -19,6 +19,8 @@ body {
 
 input[type='text'] {
 border-radius: 5px;
-width: 100%;
+width: 90%;
+border-style: red;
+
 
 }
