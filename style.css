@@ -1,25 +1,32 @@
 .title{
-   background-image: url("banner.PNG");
-   height: 90px;
+   background-image: url("nine.PNG");
+   height: 80px;
    width: 1000px;
    margin-left: 200px;
+   border-radius: 20px;
 
 }
 
 body {
     background-color: rgb(199, 191, 191);
+
 }
 .main{
     background-color: rgb(154, 163, 163);
 height: 800px;
 width: 1000px;
+set overflow: h;
+
+margin-top: 10px;
 align-content: center;
+border-radius: 20px;
 margin-left: 200px;
-background-image: url("none.jpg");
+background-image: url("back.jpg");
 }
 .link{
     color: white;
   padding: 15px 25px;
+  border-radius: 20px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
@@ -38,12 +45,14 @@ background-color: rgb(195, 197, 197);
 height: 250px;
 width: 300px;
 margin-left: 40px;
+border-radius: 20px;
 margin-top: 10px;
 }
 .box2{
     background-color: rgb(195, 197, 197);
     height: 250px;
     width: 300px;
+    border-radius: 20px;
     margin-left: 650px;
     margin-top: -539px;
     }
@@ -53,7 +62,7 @@ margin-top: 10px;
     font-weight: 800px;
    font: 100;
    color: rgb(20, 20, 20);
-    border-radius: 2%;
+    border-radius: 20px;
    margin-left: 700px;
 
 }
