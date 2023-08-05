@@ -24,3 +24,9 @@ border-style: red;
 
 
 }
+img{
+    size: 20px;
+    border-radius: 7%;
+    height: auto;
+    margin-bottom:-3rem;
+}
