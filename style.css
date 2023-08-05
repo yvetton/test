@@ -1,10 +1,7 @@
 .title{
-    font-size: 20px;
-    font-style: italic;
-    font-weight: 800px;
-   font: 100;
-   color: white;
-    border-radius: 2%;
+   background-image: url("banner.PNG");
+   height: 90px;
+   width: 1000px;
    margin-left: 200px;
 
 }
@@ -13,13 +10,12 @@ body {
     background-color: rgb(199, 191, 191);
 }
 .main{
-    background-color: cadetblue;
+    background-color: rgb(154, 163, 163);
 height: 800px;
 width: 1000px;
 align-content: center;
-border-radius: 2pc;
 margin-left: 200px;
-scroll-behavior: unset;
+background-image: url("none.jpg");
 }
 .link{
     color: white;
@@ -44,7 +40,23 @@ width: 300px;
 margin-left: 40px;
 margin-top: 10px;
 }
+.box2{
+    background-color: rgb(195, 197, 197);
+    height: 250px;
+    width: 300px;
+    margin-left: 650px;
+    margin-top: -539px;
+    }
+.footer{
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 800px;
+   font: 100;
+   color: rgb(20, 20, 20);
+    border-radius: 2%;
+   margin-left: 700px;
 
+}
 .link2{
     font-size: 20px;
     background-color: rgb(190, 185, 185);
