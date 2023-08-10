@@ -39,14 +39,37 @@ background-image: url("back.jpg");
     font-family: 'Times New Roman', Times, serif;
 
 }
+.t1{
+    width: 350px;
+    height: 300px;
+    text-decoration: aliceblue;
+    border-color:  #c4dcf3;
+    align-items: center;
+    border: none;
+ 
+}
+.th1{
+        background-color: #427fef;
+        font-style: bold;
+    }
+    .th2{
+        background-color:  #eef7ff;
+        font-style: bold;
+}
+.th3{
+    background-color:  white;
+    font-style: bold;
+}
+
 
 .box1{
-background-color: rgb(195, 197, 197);
-height: 250px;
-width: 300px;
+height: 400px;
+width: 400px;
 margin-left: 40px;
-border-radius: 20px;
-margin-top: 10px;
+background-color: #523BE9;
+border: 4pc;
+border-radius: 20rem;
+margin-bottom: 1000px;
 }
 .box2{
     background-color: rgb(195, 197, 197);
@@ -90,5 +113,12 @@ margin-top: 10px;
     border-radius: 20px;
     background-color: rgb(221, 158, 22);
     align-items: center;
+
+}
+.form{
+    align-items: center;
+    border-radius: 20px;
+    border-color: green;
+    margin-left: 300px;
 
 }
