@@ -8,8 +8,7 @@
 }
 
 body {
-    background-color: rgb(199, 191, 191);
-
+    background-color: white;
 }
 .main{
     background-color: rgb(154, 163, 163);
@@ -51,16 +50,28 @@ background-image: url("back.jpg");
 .th1{
         background-color: #427fef;
         font-style: bold;
+        border-collapse: collapse;
     }
     .th2{
         background-color:  #eef7ff;
         font-style: bold;
+        border-collapse: collapse;
 }
 .th3{
     background-color:  white;
     font-style: bold;
 }
+.boxshadow{
+    width: 300px;
+    height: 300px;
+    border-radius: 20px;
+  padding: 10px;
+  box-shadow: 15px 15px lightgrey;
+  background-color: tomato;
+   margin-left: 40rem;
+   margin-top: -18rem;
 
+}
 
 .box1{
 height: 400px;
