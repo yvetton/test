@@ -1,13 +1,13 @@
-let year=2022;
+let year=2029;
 
 if (year==2023){
 console.log('UMWAKA MWIZA');
 }
 else if (year<2023){
-    console.log('MWASIZEMO UYUMWAKA  twarawurenze.');
+    console.log(`MWASIZEMO UYUMWAKA ${year} twarawurenze.`);
 }
 else if (year>2023){
-    console.log('MWASIZEMO UYUMWAKA  NTITURAWUGERAMO.');
+    console.log(`MWASIZEMO UYUMWAKA ${year} NTITURAWUGERAMO.`);
 }
 let marks=20;
 if (marks>=50)

@@ -1,5 +1,5 @@
 .title{
-   background-image: url("nine.PNG");
+   background-image: url("banner1.jpg");
    height: 90px;
    width: 1000px;
    border-radius: 20px;
@@ -14,8 +14,8 @@ border-color: #427fef;
 }
 .main{
     background-color: rgb(154, 163, 163);
-height: 800px;
-width: 1200px;;
+height: 700px;
+width: 1000px;;
 margin-top: 10px;
 padding: 20px;
 padding-bottom: 30px;
@@ -23,27 +23,42 @@ border-radius: 20px;
 margin-left: 100px;
 background-image: url("back.jpg");
 }
+
 .link{
-    color:orange);
-  padding: 10px 15px;
-  border-radius: 10px;
-  a:link {
-    color: red;
-    font-style:oblique;
-    padding-inline-start: 20%;
-  }
-  
-  text-align: center;
-  background-color: #2d7fcb;
-}
-.link1{
-    font-size: 30px;
-    background-color: white;
-    border-radius: 4px;
-    margin-left: 30px;
-    font-family: 'Times New Roman', Times, serif;
+    
+    display: inline-block;
+	font-size: 16px;
+	padding: 10px 28px 10px;
+	color: #ffffff;
+	text-transform: uppercase;
+	font-weight: 900;
+	background: #427fef;
+	letter-spacing: 2px;
+    font-style: bold;
+    inline-size: none;
 
 }
+.box{
+    width: 300px;
+    height: 300px; 
+    border: 20rem;
+  
+    margin-top: 3rem;
+    border-radius: 13px;
+    box-shadow: #427fef 10px 10px;
+    }
+    .picbox{
+        margin-left: 50px;
+        box-shadow: #427fef;
+        border-radius: 20px;
+    }
+    .headings{
+        text-align: center;
+        font-size: 15pt;
+        color: rgb(76, 73, 73);
+        font-style: italic;
+    
+    }
 .t1{
     width: 350px;
     height: 300px;
@@ -106,4 +121,55 @@ background-image: url("back.jpg");
     border-color: green;
     margin-left: 300px;
 
+}
+.transition{
+    height:400px;
+    width: 500px;
+    background-color:   white;
+    border-radius: 30px;
+    box-shadow: lightgrey 20px 20px ;
+
+
+
+
+}
+.loren{
+   font-style:bold ;
+   font-size: 20px;
+   margin-bottom: 50px;
+   text-align: center;
+
+}
+.transition_footer{
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    height: 80px;
+    margin-top: -5rem;
+  width: 500px;
+  background: rgb(116,214,144);
+background: linear-gradient(93deg, rgba(116,214,144,1) 0%, rgba(92,191,187,1) 23%, rgba(116,214,144,1) 98%, rgba(92,191,187,1) 100%);
+        
+     
+}
+.transition_image{
+    height: 60px;
+    width: 60px;
+    margin-left: 2rem;
+    border-radius: 7rem;
+    border-color: #ffffff;
+   border-style: solid ;
+   margin-bottom: -3.3rem;
+
+}
+.inter{
+color: white;
+font-family: 'Inter';font-size: 20px;
+margin-bottom: -3.3rem;
+margin-left: 20px;
+}
+.card1{
+    width: 500px;
+    height: 300px;
+    background-color: #427fef;
+    margin-left: 300rem;
 }
